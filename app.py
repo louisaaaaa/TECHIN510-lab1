@@ -9,8 +9,7 @@ st.set_page_config(
 
 col1, col2 = st.columns([0.3, 0.7])
 with col1:
-    st.image('leo.jpg')
-    # st.image('https://avatars.githubusercontent.com/u/7678108?v=4')
+    st.image('https://github.com/louisaaaaa/TECHIN510-lab1/blob/main/leo.JPG')
 with col2:
     st.markdown(
         """
