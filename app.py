@@ -11,8 +11,18 @@ col1, col2 = st.columns([0.3, 0.7])
 with col1:
     st.markdown(
         """
-    ![](leo.JPG)
+    <style>
+    .profile-img img {
+        width: 100%;
+        border-radius: 50%;
+    }
+    </style>
+
+    <div class="profile-img">
+        <img src="leo.JPG">    
+    </div>
     """,
+        unsafe_allow_html=True,
     )
     # st.image('https://avatars.githubusercontent.com/u/7678108?v=4')
 with col2:
