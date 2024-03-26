@@ -9,8 +9,7 @@ st.set_page_config(
 
 col1, col2 = st.columns([0.3, 0.7])
 with col1:
-    htp5= 'https://github.com/louisaaaaa/TECHIN510-lab1/blob/main/leo.JPG'
-    st.image(htp5, caption= '80-day sale data', width=300)
+    st.image('leo.jpg')
 with col2:
     st.markdown(
         """
