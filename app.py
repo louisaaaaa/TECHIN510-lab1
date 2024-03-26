@@ -71,5 +71,6 @@ st.markdown(
 # Contact
 louisams@uw.edu
 """)
+
 col1, col2, col3 = st.columns(3)
 
