@@ -28,16 +28,16 @@ st.markdown(
     """
 # Work Experience
 
-### APPLE, Cupertino, CA (Jun 2023 - Sep 2023)
-#### Software Engineer Intern
+#### APPLE, Cupertino, CA (Jun 2023 - Sep 2023)
+##### Software Engineer Intern
 
 Vision-aided Spatial Interaction
 - Worked within the Location Technologies team to innovate on spatial interactions between Apple devices, contributing
 to the development of an app aimed at enhancing user experience through vision-aided technology.
 - Leveraged Swift for app development, integrating Core Bluetooth and Multipeer Connectivity frameworks for seamless device communication, and implemented the YOLO real-time object detection model to enrich the interaction pipeline.
 
-### Stanford University, Palo Alto, CA (Jun 2022 - Sep 2022)
-#### Research Assistant Intern
+#### Stanford University, Palo Alto, CA (Jun 2022 - Sep 2022)
+##### Research Assistant Intern
 
 Adaptive Multimodal Assistants Through Automated State Tracking and User Model-Directed Guidance Planning
 - Contributed to a project focused on redefining digital assistant usability with adaptive multimodal interfaces,
@@ -47,8 +47,8 @@ server and recipe data parser to support the architecture's backend.
 - Our user study indicated a 22\% decrease in task completion time and a 40\% reduction in the need for manual
 adjustments to communication modalities, showcasing the effectiveness of our adaptive interface.
 
-### Tsinghua University, Beijing, China (Jun 2021 - Jun 2022) 
-#### Research Assistant Intern
+#### Tsinghua University, Beijing, China (Jun 2021 - Jun 2022) 
+##### Research Assistant Intern
 
 One-Handed Operations on Smartphones through Front-Side Hybrid Interaction
 - Collaborated on a project aimed at improving smartphone usability with one-handed operations in the Human
