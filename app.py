@@ -18,10 +18,10 @@ with col1:
     }
     </style>
 
-    <div class="profile-img">
+    
 
     ![](leo.JPG)
-    </div>
+    
     """,
         unsafe_allow_html=True,
     )
