@@ -9,7 +9,7 @@ st.set_page_config(
 
 col1, col2 = st.columns([0.3, 0.7])
 with col1:
-    st.image('leo.png')
+    st.image('leo.png', caption='Louisa Shi')
 with col2:
     st.markdown(
         """
